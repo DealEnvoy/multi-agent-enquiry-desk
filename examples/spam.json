@@ -1,0 +1,9 @@
+{
+  "enquiry_id": "enq-1045",
+  "received_at": "2026-11-10T12:18:00Z",
+  "sender_name": "Growth Desk",
+  "sender_email": "hello@example.com",
+  "channel": "email",
+  "subject": "SEO for your agency",
+  "body": "Hi, we offer SEO and backlink packages for letting agencies. Can we send our rate card?"
+}
