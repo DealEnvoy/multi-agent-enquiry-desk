@@ -1,0 +1,9 @@
+{
+  "enquiry_id": "enq-1043",
+  "received_at": "2026-11-10T07:42:00Z",
+  "sender_name": "Jamie Cole",
+  "sender_email": "jamie.cole@example.com",
+  "channel": "email",
+  "subject": "Boiler broken at Redland Street",
+  "body": "The boiler has broken again at 8 Redland Street. It is urgent and the flat is freezing. Please send someone today."
+}

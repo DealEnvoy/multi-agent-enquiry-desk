@@ -1,0 +1,9 @@
+{
+  "enquiry_id": "enq-1044",
+  "received_at": "2026-11-10T11:05:00Z",
+  "sender_name": "Alex Morgan",
+  "sender_email": "alex.morgan@example.com",
+  "channel": "web_form",
+  "subject": "Applying for Queen Square, and the deposit",
+  "body": "Hello, I want to apply for the two bed on Queen Square. Can you waive the deposit? We can move in this month."
+}

@@ -1,0 +1,9 @@
+{
+  "enquiry_id": "enq-1046",
+  "received_at": "2026-11-10T15:02:00Z",
+  "sender_name": "Sam Reed",
+  "sender_email": "sam.reed@example.com",
+  "channel": "web_form",
+  "subject": "Following up",
+  "body": "Hi, just following up."
+}
